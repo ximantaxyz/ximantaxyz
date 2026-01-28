@@ -45,11 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ximantaxyz&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ximantaxyz&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🔗 Find me
 - Instagram: **@ximanta.xyz_**
