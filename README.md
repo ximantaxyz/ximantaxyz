@@ -45,6 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ximantaxyz&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tukuexe&layout=compact&theme=radical)  
 
 ## 🔗 Find me
 - Instagram: **@ximanta.xyz_**
