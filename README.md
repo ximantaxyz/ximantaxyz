@@ -49,7 +49,7 @@
 </p>
  
 ## 🔗 Find me
-- Instagram: **@ximanta.xyz_**
+- Instagram: **@ximanta_**
 - Website: **https://about.ximanta.space/**
 
 ---
