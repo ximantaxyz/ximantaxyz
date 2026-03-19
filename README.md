@@ -45,12 +45,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ximantaxyz&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tukuexe&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ximantaxyz&layout=compact&theme=radical" />
 </p>
  
 ## 🔗 Find me
-- Instagram: **@ximanta_**
-- Website: **https://about.ximanta.space/**
+- Instagram: **@ximanta.exe**
+- Website: **https://about.ximanta.xyz/**
 
 ---
 
