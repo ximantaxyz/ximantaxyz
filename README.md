@@ -49,7 +49,7 @@
 </p>
  
 ## 🔗 Find me
-- Instagram: **@ximanta.exe**
+- Instagram: **@exe.tuku**
 - Website: **https://about.ximanta.xyz/**
 
 ---
